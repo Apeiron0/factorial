@@ -33,7 +33,6 @@
                 android:id="@+id/botonsote"
                 android:onClick="olo"/>
         </TableRow>
-
         <TableRow
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
